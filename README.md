@@ -25,3 +25,28 @@ To run the Horizon Bank Management System on your local machine, follow these st
    ```bash
    git clone https://github.com/your-username/horizon-bank.git
 
+2. Navigate to the project directory:
+
+   ```bash
+   cd horizon-bank
+
+3. Compile the program:
+
+   ```bash
+   g++ main.cpp -o horizon-bank
+4. Run the executable:
+
+   ```bash
+   ./horizon-bank
+
+## Usage
+
+Follow the on-screen prompts to navigate through the application. Create new accounts, log in, and perform various banking operations. Explore the different features and functionalities provided by the system.
+
+## Contributing
+
+Contributions are welcome! If you find bugs or have ideas for improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
